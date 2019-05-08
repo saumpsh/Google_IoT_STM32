@@ -1,0 +1,6 @@
+10:30:06 **** Incremental Build of configuration Debug for project B-L475E-IOT01_GoogleIoT ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:30:07 Build Finished (took 1s.248ms)
+
